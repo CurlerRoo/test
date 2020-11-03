@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-03T02:40:44.335Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Safari/605.1.15" etag="shnenNvfdEbhuuvObgHW" version="13.8.8" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-03T02:41:49.912Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Safari/605.1.15" etag="yN2FnCgNt-OoaGCTIHnp" version="13.8.8" type="github">
   <diagram id="SUQyNkPw38X5v7QX5pR-" name="Page-1">
     <mxGraphModel dx="1425" dy="813" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -40,7 +40,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="-8c-CMzi4ny3NYdPQmtk-1" value="Retry thủ công trên web" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="hwhnWIX9Nv_DtkqQnSJ9-3">
+        <mxCell id="-8c-CMzi4ny3NYdPQmtk-1" value="10. Retry thủ công trên web" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" parent="hwhnWIX9Nv_DtkqQnSJ9-3" vertex="1">
           <mxGeometry x="90" y="730" width="120" height="40" as="geometry" />
         </mxCell>
         <UserObject label="Chạy worker" link="https://alloverprint.sgp1.digitaloceanspaces.com/uk-labels/749771-LG324968905GB.jpg" id="hwhnWIX9Nv_DtkqQnSJ9-4">
@@ -136,7 +136,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="-8c-CMzi4ny3NYdPQmtk-2" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" source="-8c-CMzi4ny3NYdPQmtk-1" parent="hwhnWIX9Nv_DtkqQnSJ9-1" target="hwhnWIX9Nv_DtkqQnSJ9-17">
+        <mxCell id="-8c-CMzi4ny3NYdPQmtk-2" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="hwhnWIX9Nv_DtkqQnSJ9-1" source="-8c-CMzi4ny3NYdPQmtk-1" target="hwhnWIX9Nv_DtkqQnSJ9-17" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="330" y="770" as="targetPoint" />
           </mxGeometry>
